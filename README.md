@@ -3,4 +3,4 @@
 -  Professor: Aline Campos
 -  Código: 98H00-04
 -  Semestre: 2025/1
--  Nota: cursando
+-  Nota: 8.6
